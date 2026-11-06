@@ -3,7 +3,7 @@
 const Carrito = () => {
   return (
     <div>
-      Carrito
+      Carritos
     </div>
   )
 }
